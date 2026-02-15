@@ -7,11 +7,17 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+configs
+__pycache__
+*.pem
+record.mp4
+cv2.mp4
+
 node_modules
 dist
 dist-ssr
 *.local
-
+venv
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
